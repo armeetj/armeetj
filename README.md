@@ -13,3 +13,6 @@ View my **projects**, **publications**, **resume**, and more at [armeet.ca](http
 ## ◾ socials
 - [in:armeetjatyani](https://linkedin.com/in/armeetjatyani) -> **connect** with me on LinkedIn
 - [x:armeetjatyani](https://x.com/armeetjatyani)
+
+## ◾ projects
+A few of my projects are pinned. I'm waiting on making some of my research repos public.
