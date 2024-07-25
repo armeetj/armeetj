@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Armeet.
+# 👋 Hi! I'm Armeet.
 🦫 Undergrad (incoming junior) studying CS and Applied Math at [Caltech](https://caltech.edu) (class of 26')
 <br/>
 View my **projects**, **publications**, **resume**, and more at [armeet.ca](https://armeet.ca)
