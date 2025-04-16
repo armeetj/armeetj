@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Armeet.
-🦫 Undergrad (incoming junior) studying CS and researching AI at [Caltech](https://caltech.edu) (class of 26')
+🦫 Undergrad studying CS and researching AI at [Caltech](https://caltech.edu) (class of 26')
 <br/>
 View my **projects**, **publications**, **resume**, and more at [armeet.ca](https://armeet.ca)
 
