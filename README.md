@@ -4,7 +4,7 @@
 View my **projects**, **publications**, **resume**, and more at [armeet.ca](https://armeet.ca)
 
 ## ◾ experience
-- ✨ **Research Fellow** at _Anima AI + Science Lab @ Caltech_ (1+ years) (Nov 2023 - Current)
+- ✨ **Research Fellow** at _Anima AI + Science Lab @ Caltech_ (2+ years) (Nov 2023 - Current)
 - 🌎 **Research Fellow** at _Seismology Lab @ Caltech_ (5 months) (June 2023 - October 2023)
 - 🔬 **Research Intern** at _Wei Bio-Imaging Lab @ Caltech_ (3 months) (July 2022 - September 2022)
 - 🏫 **Volunteer** at _Code 4 Tomorrow_ (2 years) (September 2020 - May 2022)
